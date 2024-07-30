@@ -4,3 +4,4 @@ Thomas
 Charles
 Jason
 Eric
+Lucy
